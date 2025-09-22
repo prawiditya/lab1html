@@ -39,5 +39,6 @@ coding
 </body>
 </html>
 
+![Logo UPB](images/logo_upb.png)
 
 
